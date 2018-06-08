@@ -22,6 +22,8 @@
 8. 工作表8：查看了全月的订单数量的变化，发现整体都是向上增长的态势，也就是说从2016年8月份数据看来，共享单车还是出于快速发展时期
 
 ## 4.可视化链接
+[摩拜单车2016年8月份上海地区数据分析_V3.0](https://public.tableau.com/profile/erick2761#!/vizhome/mobike_shanghai_sample_dashboard_zy_v3_0/1?publish=yes)
+
 [摩拜单车2016年8月份上海地区数据分析_V2.0](https://public.tableau.com/profile/erick2761#!/vizhome/mobike_shanghai_sample_dashboard_zy/1_2?publish=yes)
 
 [摩拜单车2016年8月份上海地区数据分析_V1.0](https://public.tableau.com/profile/erick2761#!/vizhome/mobike_shanghai_sample_dashboard_zy_v1_0/1_2?publish=yes)
